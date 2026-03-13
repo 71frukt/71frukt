@@ -8,9 +8,6 @@
 📭 **Email:** shelonin.ak@phystech.edu  
 📞 +79997115815
 
-
-### Details in my 📄 **[CV](Shelolnin_Arseny_CV.pdf)**  
-
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -19,7 +16,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=71frukt&show_icons=true&theme=radical&hide_border=true" alt="Статистика GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=71frukt&layout=compact&theme=radical&hide_border=true" alt="Топ языков" />
 </p>
+
+### Details in my 📄 **[CV](Shelolnin_Arseny_CV.pdf)**  
