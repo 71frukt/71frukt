@@ -1,6 +1,6 @@
 ## Hello! I'm Shelonin Arseny 👨‍💻
 
-💻 **Studying at the DREC MIPT, on DED's course**  
+💻 **Studying at the DREC MIPT**  
 📌 **Dolgoprudny, Russia**
 
 ### 📫 Contacts
