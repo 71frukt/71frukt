@@ -23,7 +23,11 @@
 
 ### Details in my 📄 **[CV](Shelolnin_Arseny_CV.pdf)**  
 
+# Привет, я Арсений! 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=71frukt&label=ПРОСМОТРЫ+ПРОФИЛЯ&style=flat-square&color=e74c3c" alt="Счетчик просмотров" />
+</p>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E7352C&center=false&vCenter=true&width=500&lines=Низкоуровневая+разработка;Создание+компиляторов;C%2FC%2B%2B%2C+Assembly;Разработка+под+ESP32" alt="Typing SVG" />
@@ -69,8 +73,16 @@
 ### 📊 Статистика и активность
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=71frukt&theme=radical" alt="Детальная сводка" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=71frukt&show_icons=true&theme=radical&hide_border=true" alt="Статистика GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=71frukt&layout=compact&theme=radical&hide_border=true" alt="Топ языков" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=71frukt&theme=radical&hide_border=true&area=true" alt="График активности" />
 </p>
 
 <p align="center">
@@ -79,4 +91,17 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=71frukt&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Трофеи" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/71frukt/71frukt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/71frukt/71frukt/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/71frukt/71frukt/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+### 👾 Немного юмора
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Случайная шутка" />
 </p>
