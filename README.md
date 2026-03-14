@@ -8,6 +8,10 @@
 📭 **Email:** shelonin.ak@phystech.edu  
 📞 +7 999 711-58-15
 
+### Details in my 📄 **[CV](Shelolnin_Arseny_CV.pdf)**  
+
+***
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -33,4 +37,3 @@
 
 
 
-### Details in my 📄 **[CV](Shelolnin_Arseny_CV.pdf)**  
