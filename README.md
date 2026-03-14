@@ -6,7 +6,7 @@
 ### 📫 Contacts
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16" height="16"> **telegram:** [@Senchchch](https://t.me/Senchchch)  
 📭 **Email:** shelonin.ak@phystech.edu  
-📞 +79997115815
+📞 +7 999 711-58-15
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
