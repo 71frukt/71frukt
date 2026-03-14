@@ -8,7 +8,7 @@
 📭 **Email:** shelonin.ak@phystech.edu  
 📞 +79997115815
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="Assembly"/>
