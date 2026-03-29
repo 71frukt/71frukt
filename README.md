@@ -31,9 +31,6 @@
 </p>
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=71frukt&show_icons=true&theme=radical&hide_border=true" alt="Статистика GitHub" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=71frukt&layout=compact&theme=radical&hide_border=true&hide=html,tex" alt="Топ языков" /></p>
-
-
+  <img src="https://https://github-readme-stats-jlj5.onrender.com/api?username=71frukt&show_icons=true&theme=radical&hide_border=true" alt="Статистика GitHub" />
+  <img src="https://https://github-readme-stats-jlj5.onrender.com/api/top-langs/?username=71frukt&layout=compact&theme=radical&hide_border=true&hide=html,tex" alt="Топ языков" />
+</p>
