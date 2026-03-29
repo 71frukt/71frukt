@@ -31,6 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-jlj5.onrender.com/api?username=71frukt&show_icons=true&theme=radical&hide_border=true" alt="Статистика GitHub" />
-  <img src="https://github-readme-stats-jlj5.onrender.com/api/top-langs/?username=71frukt&layout=compact&theme=radical&hide_border=true&hide=html,tex" alt="Топ языков" />
+  <img src="https://github-readme-stats-jlj5.onrender.com/api?username=71frukt&show_icons=true&theme=radical&hide_border=true&v=2" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats-jlj5.onrender.com/api/top-langs/?username=71frukt&layout=compact&theme=radical&hide_border=true&hide=html,tex&v=2" alt="Топ языков" />
 </p>
