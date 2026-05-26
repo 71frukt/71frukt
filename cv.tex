@@ -1,0 +1,176 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[top=1.5cm, bottom=1.5cm, left=1cm, right=1cm]{geometry}
+\usepackage{cmap} % поиск в PDF
+\usepackage{mathtext} % русские буквы в формулах
+\usepackage[T2A]{fontenc} % кодировка
+\usepackage[utf8]{inputenc} % кодировка исходного текста
+\usepackage[english,russian]{babel} % локализация и переносы
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{parskip}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{xhfill}
+
+\setlist[itemize]{topsep=0pt, partopsep=0pt, parsep=0pt, itemsep=0pt}
+% Цветовая схема
+\definecolor{primary}{RGB}{47,72,88}
+\definecolor{secondary}{RGB}{127,140,141}
+\definecolor{accent}{RGB}{231,76,60}
+
+\titleformat{\section}[block]
+  {\color{primary}\normalfont\Large\bfseries} % Формат текста заголовка
+  {} % Без нумерации
+  {0pt} % Отступ перед заголовком
+  {} % Текст перед заголовком
+  [\vspace{0em}\titlerule] % Линия под заголовком
+\titlespacing*{\section}{0pt}{1em}{0.5em} % Отступы вокруг секции
+
+\begin{document}
+
+\begin{minipage}{0.7\textwidth}
+{\Huge\textbf{\color{primary}Арсений Шелонин}} \\
+{\Large\textcolor{secondary}{Кандидат в разработчики ПО \newline 19 лет}}
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+\hfill
+\fbox{\begin{minipage}{3.5cm}
+\centering
+\includegraphics[width=3.5cm]{image.png} 
+\end{minipage}}
+\end{minipage}
+
+\section{Контакты}
+\begin{tabularx}{\linewidth}{@{}lX@{}}
+\faPhone\ & +7 (999) 711-58-15 \\
+\faTelegram\ & \href{https://t.me/Senchchch}{@Senchchch} \\
+\faEnvelope\ & shelonin.ak@phystech.edu \\
+\faEnvelope\ & 71frukt@mail.ru \\
+\faMapMarker\ & Долгопрудный, Россия \\
+\faGithub\ & \href{https://github.com/71frukt}{71frukt} \\
+\end{tabularx}
+
+\vspace{1.25em}
+
+\section{Образование}
+\begin{itemize}[label={},leftmargin=0pt]
+    \item \textbf{\color{primary}Московский физико-технический институт (МФТИ)} 
+    \item Факультет радиотехники и компьютерных технологий
+    \item Направление --- информатика и вычислительная техника\newline Бакалавриат, 2 курс \hfill \textcolor{secondary}{2024--н.в.}
+    \item Средний балл: 7.14/10
+    \item Средний балл по программированию: 9/10
+\end{itemize}
+
+\vspace{1.25em}
+
+\section{Опыт работы}
+\begin{itemize}[label={},leftmargin=1pt]
+    \item \textbf{\color{primary}Институт системного программирования им. В. П. Иванникова РАН}
+    \hfill \textcolor{secondary}{июль-сентябрь 2025}
+    
+    \begin{itemize}[label={}, leftmargin=15pt] % Можно заменить label={} на label=\textbullet для добавления точек
+        \item Разработка программного обеспечения для модели робота в симуляторе Gazebo с использованием фреймворка ROS
+    \end{itemize}
+\end{itemize}
+
+\vspace{1.25em}
+
+\section{Навыки}
+\begin{tabularx}{\linewidth}{@{}lX@{}}
+    \textbf{\color{primary} IT}              &   C/C++, ассемблер x86-64, \LaTeX \\
+    \textbf{\color{primary} Инструменты}     &   git, make, CMake, gdb, radare2, IDA, SFML, TXLib, Graphviz, Gnuplot, Flex, Doxygen \\
+    \textbf{\color{primary} Инженерия}      &   Solidworks, Autodesk Fusion 360, Blender, EasyEda, работа с 3D принтером, пайка \\
+    \textbf{\color{primary} Языки}          &   Русский (родной), Английский (B2) \\
+\end{tabularx}
+
+\vspace{1.25em}
+
+\section{Достижения}
+\vspace{0.5em}
+
+\textbf{\color{primary} Победитель олимпиад по физике (11 класс)}   
+
+\faTrophy\ {Всероссийская олимпиада по физике (региональный этап)} \newline
+\faTrophy\ {Олимпиада Курчатов} \newline
+\faTrophy\ {Инженерная олимпиада} \newline
+\faTrophy\ {Всесибирская олимпиада} \newline
+
+\section{Технические проекты}
+
+\href{https://github.com/71frukt/SLR_Parser} {\textbf{\color{primary} SLR Parser}} \faGithub
+\hfill \textcolor{secondary}{C++, CMake, Flex}
+\begin{itemize}
+\item Алгоритм парсинга произвольной грамматики, заключающийся в построении конечного автомата вместо рекурсивного спуска.
+\end{itemize}
+
+\vspace{1.25em}
+
+\href{https://github.com/71frukt/tenpiler} {\textbf{\color{primary} Тензорный компилятор}} \faGithub
+\hfill \textcolor{secondary}{C++, CMake, Protobuf}
+\begin{itemize}
+\item Разработан фронтенд-модуль конструирования графа нейронной сети.
+\item Логика построения инкапсулирована от сторонней библиотеки, выполняющей синтаксический анализ исходных файлов.
+\end{itemize}
+
+\vspace{1.25em}
+
+\href{https://github.com/71frukt/Termenvox}           {\textbf{\color{primary} Цифровой терменвокс}}    \faGithub
+\hfill \textcolor{secondary}{C++, PlatformIO, Kotlin, Fusion360}
+\begin{itemize}
+\item Этот проект - цифровой терменвокс, который позволяет управлять звуком и компьютером движениями рук без прикосновений.
+\end{itemize}
+
+\vspace{1.25em}
+
+\href{https://github.com/71frukt/TRANSLATOR} {\textbf{\color{primary}Транслятор Панк-языка}} \faGithub
+\hfill \textcolor{secondary}{C, Graphviz, Make}
+\begin{itemize}
+\item Проект трансляции моего языка программирования с панк-лексиконом в исполняемый ELF-файл.
+\item Реализовал три основных компонента: фронтенд, мидлэнд и бэкенд. \newline
+      Фронтенд строит абстрактное синтаксическое дерево из кода; мидлэнд выполняет базовые оптимизации; бэкенд генерирует IR, и из него строит исполняемый ELF-файл.
+
+\end{itemize}
+
+\vspace{1.25em}
+
+\href{https://github.com/71frukt/SPU} {\textbf{\color{primary}Виртуальный процессор}} \faGithub
+\hfill \textcolor{secondary}{C, Graphviz, GDB, Make}
+\begin{itemize}
+\item Проект, симулирующий работу процессора и ассемблера.
+\item Ассемблер переводит код на ассемблере в бинарный вид.
+\item Процессор выполняет сгенерированный ассемблером машинный код.
+\item Реализована работа с регистрами, стеком и оперативной памятью.
+\end{itemize}
+
+\vspace{1.25em}
+
+\href{https://github.com/71frukt/DIFFERENTIATOR} {\textbf{\color{primary}Дифференциатор}} \faGithub
+\hfill \textcolor{secondary}{C, Graphviz, Gnuplot, Make}
+\begin{itemize}
+\item Программа, вычисляющая производные n-го порядка произвольных выражений и раскладывающая их в ряд Тейлора до $o(n)$.
+\item Программа упрощает выражения перед каждым дифференцированием и упрощает результаты.
+\item В конце генерирует код LaTeX и PDF-файл с пошаговыми объяснениями и графиком полинома Тейлора.
+\end{itemize}
+
+\vspace{1.25em}
+
+\href{https://github.com/71frukt/FRACTAL} {\textbf{\color{primary}Вычислитель множества Мандельброта}} \faGithub
+\hfill \textcolor{secondary}{C, make, SFML}
+\begin{itemize}
+\item Реализовал 4 версии алгоритма вычисления. Самая простая версия вычисляет каждый пиксель напрямую. Оптимизированная версия использует SIMD-инструкции и развертку циклов.
+\end{itemize}
+
+\vspace{1.25em}
+
+\href{https://github.com/71frukt/PRINTF} {\textbf{\color{primary}Реализация printf}} \faGithub
+\hfill \textcolor{secondary}{ассемблер x86-64, radare2}
+\begin{itemize}
+\item Реализация функции printf стандартной библиотеки в соответствии с соглашениями System V AMD64.
+\item Поддерживает числа с плавающей точкой.
+\end{itemize}
+
+\end{document}
